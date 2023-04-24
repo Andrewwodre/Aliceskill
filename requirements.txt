@@ -1,0 +1,9 @@
+click
+colorama
+Flask==2.2.3
+itsdangerous
+Jinja2
+MarkupSafe
+pip==23.0.1
+setuptools
+Werkzeug
